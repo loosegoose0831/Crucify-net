@@ -1,2 +1,2 @@
-# Crucify Site
-This is a basic Next.js starter site for the Crucify brand.
+# Crucify-net
+This is a basic Next.js App Router site for the Crucify brand.

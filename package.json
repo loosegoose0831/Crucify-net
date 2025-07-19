@@ -1,6 +1,6 @@
 
 {
-  "name": "crucify",
+  "name": "crucify-net",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
